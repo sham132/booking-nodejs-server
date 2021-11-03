@@ -23,7 +23,7 @@
     "jsonwebtoken": "^8.1.1",
     "mongoose": "^5.0.3",
     "swagger-ui-express": "^4.0.7",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^1.14.12"
